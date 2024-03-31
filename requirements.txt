@@ -1,0 +1,4 @@
+Flask==2.1.0
+Flask-WTF==0.15.1
+qrcode==7.3
+sqlite3
